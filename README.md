@@ -19,6 +19,7 @@
 	<br><br>
 	<p>🧱 Frameworks & Library 🧱<p>
 		<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
+		<img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIkit&logoColor=white" />
 		<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 		<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=FLask&logoColor=white" />
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
