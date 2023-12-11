@@ -26,8 +26,8 @@
 		<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=twitter&logoColor=white" />
 	<br>
 	<p>📚 Database 📚<p>
-		<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />
-		<img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=Sqlite&logoColor=white" />
+		<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Mysql&logoColor=white" />
+		<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=Sqlite&logoColor=white" />
 		<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 	<br>
 	<p> 🧑‍💻 IDE 🧑‍💻<p>
