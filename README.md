@@ -56,7 +56,10 @@
 	<a href="https://ethan-oh.notion.site/dfc9c2edcc1345cb90d11d4261bd0a79?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
-	<a href="https://www.youtube.com/@user-hd2ki6yy8n/featured">
+	<a href="https://http://ethan-oh.github.io">
+		<img src="https://img.shields.io/badge/Flutter Web-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />
+	</a>
+	<a href="https://www.youtube.com/@ethan-oh">
 		<img src="https://img.shields.io/badge/Youtube-EE0000?style=for-the-badge&logo=Youtube&logoColor=white" />
 	</a>
 	<br>
