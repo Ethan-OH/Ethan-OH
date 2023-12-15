@@ -1,7 +1,6 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Ethan-OH's%20Github&fontSize=50" />
 </div>
-<br>
 <div align=center>
 	<h3>Hi, there! 👋</h3>
 </div>
