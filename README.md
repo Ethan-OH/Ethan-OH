@@ -5,7 +5,9 @@
 	<h3>Hi, there! 👋</h3>
 </div>
 <div align=center>
-	If you want to know more about me, <a href="http://ethan-oh.github.io">click here</a>.
+	If you want to know more about me,
+	<br>
+	<a href="http://ethan-oh.github.io">Click Here</a>.
 	<br>This page is built with Flutter.
 </div>
 
